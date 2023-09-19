@@ -1,0 +1,12 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "cal".(”³šº8ÄÑğßª1
+J
+java:S1905"-Remove this unnecessary cast to "Calculator".(”³šº8³‹ûßª1
+E
+java:S1481"(Remove this unused "cal" local variable.(”³šº8ÍÑğßª1
+G	java:S106"+Replace this use of System.out by a logger.(éıÛõ8ÔÑğßª1
+G	java:S106"+Replace this use of System.out by a logger.(ß÷™ÿ8ÔÑğßª1
+G	java:S106"+Replace this use of System.out by a logger.(ï÷¿‚8ÔÑğßª1
+G	java:S106	"+Replace this use of System.out by a logger.(¢ÛĞ8ÔÑğßª1
+L	java:S106"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8ÜÑğßª1
