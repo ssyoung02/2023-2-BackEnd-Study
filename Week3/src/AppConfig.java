@@ -1,0 +1,3 @@
+@ComponentScan
+public class AppConfig {
+}
